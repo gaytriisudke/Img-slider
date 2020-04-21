@@ -15,12 +15,12 @@ body, #slider, .wrap, .slide-content{
     background-repeat: no-repeat; 
 }
 /*I used css to add the images to the background of the div with class name slide*/
-.slide1{background-image: url('images/one.jpeg')}
-.slide2{background-image: url('images/two.jpeg')}
-.slide3{background-image: url('images/three.jpeg')}
-.slide4{background-image: url('images/four.jpeg')}
-.slide5{background-image: url('images/five.jpeg')}
-.slide6{background-image: url('images/six.jpeg')}
+.slide1{background-image: url('https://source.unsplash.com/1600x900/?nature,water')}
+.slide2{background-image: url('https://source.unsplash.com/random')}
+.slide3{background-image: url('https://source.unsplash.com/1600x900/?nature,tree')}
+.slide4{background-image: url('https://source.unsplash.com/1600x900/?mountain')}
+.slide5{background-image: url('https://source.unsplash.com/1600x900/?nature,water')}
+.slide6{background-image: url('https://source.unsplash.com/1600x900/?nature,insect')}
 /*Bellow, I am simply choosing how I would like to display my images and text in the slide-content div*/
 .slide-content{
     display:flex;
