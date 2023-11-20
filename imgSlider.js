@@ -5,6 +5,8 @@ let arrowLeft = document.querySelector('#left')
 let arrowRight = document.querySelector('#right')
 //current is required in order to minipulate which index of the slider images array i choose to display
 let current = 0
+/* the code
+*/
 
 /*The first function that I've written, simply 'removes' all the images by selecting them and setting their style property 
 to display:none. By doing this, I can decide which images to display based on a click event*/
