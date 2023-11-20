@@ -8,6 +8,8 @@ body, #slider, .wrap, .slide-content{
 }
 /*Position relative will ensure that the images do not follow me as I scroll down the page*/
 .wrap{position:relative}
+/* position 
+*/
 
 .slide{
     background-size:cover;
